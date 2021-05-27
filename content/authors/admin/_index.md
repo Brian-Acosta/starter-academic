@@ -1,6 +1,6 @@
 ---
 role: Ph.D. Student - Mechanical Engineering and Applied Mechanics
-avatar_filename: brian_acosta_headshot.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include controls, dynamics, and robotics.
 interests:
   - Robotics
