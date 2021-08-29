@@ -1,9 +1,8 @@
 widget: contact
 headless: true  # This file represents a page section.
 
-# ... Put Your Section Options Here (title etc.) ...
-
 content:
+  autolink: true
   form:
     provider: netlify
     netlify:
