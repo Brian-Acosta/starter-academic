@@ -6,6 +6,8 @@ interests:
   - Robotics
   - Dynamics
   - Controls
+  - Coffee
+  - Electronics
 social:
 - icon: github
   icon_pack: fab
@@ -29,6 +31,6 @@ highlight_name: false
 title: Brian Acosta
 email: ""
 ---
-Hi, I'm Brian! I'm a Ph.D. student in [MEAM](https://www.me.upenn.edu/) and the [GRASP Lab](https://www.grasp.upenn.edu/) at Penn, where I study planning and control for legged robots. I am advised by [Prof. Michael Posa](https://dair.seas.upenn.edu/michael-posa/). 
+Hi, I'm Brian! I'm a Ph.D. student in [MEAM](https://www.me.upenn.edu/) and the [GRASP Lab](https://www.grasp.upenn.edu/) at Penn, where I study planning and control for legged robots. My research interests are broadly at the intersection of model based control design and machine learning. 
 
-I received my Bachelor of Science in Mechanical Engineering from Purdue University, where I researched in the [XYZT lab](https://www.xyztlab.com/), advised by Professor Song Zhang. I have also worked as an engineering intern for [McNeilus Truck and Manufacturing](https://www.mcneiluscompanies.com/) and [John Deere](https://www.deere.com/en/).
+Before coming to Penn, I received my Bachelor of Science in Mechanical Engineering from Purdue University, where I researched in the [XYZT lab](https://www.xyztlab.com/) and interned as a mechanical engineer for Oshkosh Corporation and John Deere.
