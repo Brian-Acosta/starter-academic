@@ -1,7 +1,7 @@
 ---
 role: Ph.D. Student - Mechanical Engineering and Applied Mechanics
 avatar_filename: avatar.jpg
-bio: My research interests include controls, dynamics, and robotics.
+bio: I'm a mechanical engineer who specializes in robotics and controls.
 interests:
   - Robotics
   - Dynamics
